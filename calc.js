@@ -11,3 +11,4 @@ function imReallyJustRushingThis(){
     daysLeft = e-a;
     document.getElementById("output").innerHTML = `Fortunately you've got around ${daysLeft} days left, what are you gonna do next?`;
 }
+imReallyJustRushingThis();
