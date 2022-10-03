@@ -40,5 +40,16 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
+  },
+  "description": "website",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FourFortyFour/WhatToDo.git"
+  },
+  "author": "Abdulla Al Blooshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FourFortyFour/WhatToDo/issues"
   }
 }
