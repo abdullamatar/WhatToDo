@@ -27,4 +27,4 @@ yarn-error.log*
 ./.env
 ./whattodo/.env
 info.md
-windex.html
+./windex.html
