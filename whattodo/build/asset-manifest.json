@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/WhatToDo/static/css/main.86ee4013.css",
+    "main.js": "/WhatToDo/static/js/main.66fe5f17.js",
+    "static/media/nasaCluster.jpg": "/WhatToDo/static/media/nasaCluster.d7682c84eafd81bec241.jpg",
+    "index.html": "/WhatToDo/index.html",
+    "main.86ee4013.css.map": "/WhatToDo/static/css/main.86ee4013.css.map",
+    "main.66fe5f17.js.map": "/WhatToDo/static/js/main.66fe5f17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86ee4013.css",
+    "static/js/main.66fe5f17.js"
+  ]
+}
