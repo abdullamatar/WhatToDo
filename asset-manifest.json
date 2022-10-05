@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/WhatToDo/static/css/main.3c7f4840.css",
-    "main.js": "/WhatToDo/static/js/main.de5888ce.js",
+    "main.css": "/WhatToDo/static/css/main.6faad25f.css",
+    "main.js": "/WhatToDo/static/js/main.db5e9056.js",
     "static/media/nasaCluster.jpg": "/WhatToDo/static/media/nasaCluster.d7682c84eafd81bec241.jpg",
     "index.html": "/WhatToDo/index.html",
-    "main.3c7f4840.css.map": "/WhatToDo/static/css/main.3c7f4840.css.map",
-    "main.de5888ce.js.map": "/WhatToDo/static/js/main.de5888ce.js.map"
+    "main.6faad25f.css.map": "/WhatToDo/static/css/main.6faad25f.css.map",
+    "main.db5e9056.js.map": "/WhatToDo/static/js/main.db5e9056.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c7f4840.css",
-    "static/js/main.de5888ce.js"
+    "static/css/main.6faad25f.css",
+    "static/js/main.db5e9056.js"
   ]
 }
